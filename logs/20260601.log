@@ -1,0 +1,5 @@
+[23:20:17] PLATE=CATO-7       | CONF=0.05 | SRC=webcam | DUP=False | IMG=outputs\crop_20260601_232017_907_CATO7.jpg
+[23:20:19] PLATE=624          | CONF=0.83 | SRC=webcam | DUP=False | IMG=outputs\crop_20260601_232019_033_624.jpg
+[23:20:20] PLATE=AFR-024      | CONF=0.93 | SRC=webcam | DUP=False | IMG=outputs\crop_20260601_232020_901_AFR024.jpg
+[23:20:21] PLATE=AFR-024      | CONF=0.98 | SRC=webcam | DUP=True | IMG=outputs\crop_20260601_232021_961_AFR024.jpg
+[23:21:46] PLATE=I3S2-35033   | CONF=0.94 | SRC=image  | DUP=False | IMG=outputs\crop_20260601_232146_663_I3S235033.jpg
