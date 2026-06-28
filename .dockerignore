@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+logs
+outputs
+runs
+UI_ScreenShots
+screenshots
+dataset
+pak plates
